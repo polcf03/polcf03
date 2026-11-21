@@ -2,7 +2,7 @@
 
 ### Electronics Engineering Student | Firmware and Hardware Development
 
-I enjoy bridging the gap between hardware and software—designing custom PCBs, writing low-level firmware, and building reliable embedded systems from scratch.
+I enjoy making hardware and software. Designing custom PCBs, writing low-level firmware, and building embedded systems.
 
 ---
 
