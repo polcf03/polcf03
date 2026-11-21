@@ -1,4 +1,4 @@
-# Hi! I'm Pol Cárceles 👋
+# Hi! I'm Pol👋
 
 ### Electronics Engineering Student | Firmware and Hardware Development
 
