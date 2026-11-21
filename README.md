@@ -13,7 +13,7 @@ I enjoy bridging the gap between hardware and software—designing custom PCBs, 
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech & Tools
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
