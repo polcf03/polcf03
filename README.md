@@ -2,7 +2,7 @@
 
 ### Electronics Engineering Student | Firmware and Hardware Development
 
-I enjoy making hardware and software. Designing custom PCBs, writing low-level firmware, and building embedded systems.
+I enjoy designing custom PCBs, writing low-level firmware, and building embedded systems.
 
 ---
 
