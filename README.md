@@ -39,15 +39,6 @@ I enjoy bridging the gap between hardware and software—designing custom PCBs, 
 
 ---
 
-## 📁 Featured Projects
-
-| Project | Description | Link |
-| :--- | :--- | :--- |
-| 🎵 **STM32 MP3 Audio Player** | Custom PCB design in KiCad & modular C firmware for audio playback. | [View Code](#) |
-| ⚙️ **Absolute Encoder R&D** | Low-cost, customizable encoder firmware & signal processing on Arduino (UPC). | [View Code](#) |
-
----
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
