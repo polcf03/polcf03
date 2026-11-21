@@ -8,8 +8,8 @@ I enjoy bridging the gap between hardware and software—designing custom PCBs, 
 
 ## 🚀 About Me
 
-- 🛠️ **Currently working on:** Developing a custom **STM32-based MP3 Audio Player** (PCB routing in KiCad & modular C firmware).
-- 📖 **Currently learning:** Advanced STM32 peripheral optimization and FPGA design with VHDL.
+- 🛠️ I'm currently working on a custom STM32-based MP3 Audio Player.
+- 📖 I'm on track for learning more about STM32.
 
 ---
 
