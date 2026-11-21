@@ -8,10 +8,8 @@ I enjoy bridging the gap between hardware and software—designing custom PCBs, 
 
 ## 🚀 About Me
 
-- 🔭 **Currently working on:** Developing a custom **STM32-based MP3 Audio Player** (PCB routing in KiCad & modular C firmware) and researching low-cost absolute encoders at **UPC (Moonshot)**.
-- 🌱 **Currently learning:** Advanced STM32 peripheral optimization and FPGA design with VHDL.
-- 💬 **Ask me about:** Embedded C, microcontroller interfacing (STM32/Arduino), schematic capture/PCB design in KiCad, or hardware validation.
-- ⚡ **Fun fact:** I love taking a project all the way from a breadboard prototype and 3D-printed enclosure to a finished PCB.
+- 🛠️ **Currently working on:** Developing a custom **STM32-based MP3 Audio Player** (PCB routing in KiCad & modular C firmware) and researching low-cost absolute encoders at **UPC (Moonshot)**.
+- 📖 **Currently learning:** Advanced STM32 peripheral optimization and FPGA design with VHDL.
 
 ---
 
