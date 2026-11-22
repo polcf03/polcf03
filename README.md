@@ -16,9 +16,8 @@
 
 | Project | Description | Link |
 | :--- | :--- | :--- |
-| 🥷 **Green Ninja** | 2D game built from scratch. CPU optimization. | [View Code](https://github.com/NaviTK/Green-Ninja) |
-| 🎲 **Scrabble** | Custom implementation with UI. | [View Code](https://github.com/NaviTK/Scrabble) |
-| 📡 **App Streaming** | REST Architecture & Backend. | [View Code](https://github.com/NaviTK/AppStreaming) |
+| 🎚️  **Frequency Meter** | Frequency Meter and Signal Generator (Raspberry Pi Pico) | [View Code](https://github.com/polcf03/pico-frecuency-analyzer) |
+| 🎲 **MP3** | Portable audio player using STM32 | [View Code](https://github.com/polcf03/stm32-mp3-player) |
 
 ---
 
