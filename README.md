@@ -1,9 +1,6 @@
 # Hi! I'm Pol👋
 
 ### Electronics Engineering Student | Firmware and Hardware Development
-
-I enjoy designing custom PCBs, writing low-level firmware, and building embedded systems.
-
 ---
 
 ## 🚀 About Me
