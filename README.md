@@ -7,7 +7,7 @@ I enjoy designing custom PCBs, writing low-level firmware, and building embedded
 
 ## 🪧 About Me
 
-- 🛠️ I'm currently working on a custom STM32-based MP3 Audio Player.
+- 🔨 I'm currently working on a custom STM32-based MP3 Audio Player.
 - 📖 I'm on track for learning more about STM32.
 
 ---
