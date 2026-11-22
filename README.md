@@ -12,6 +12,16 @@
 
 ---
 
+## 📂 Featured Projects
+
+| Project | Description | Link |
+| :--- | :--- | :--- |
+| 🥷 **Green Ninja** | 2D game built from scratch. CPU optimization. | [View Code](https://github.com/NaviTK/Green-Ninja) |
+| 🎲 **Scrabble** | Custom implementation with UI. | [View Code](https://github.com/NaviTK/Scrabble) |
+| 📡 **App Streaming** | REST Architecture & Backend. | [View Code](https://github.com/NaviTK/AppStreaming) |
+
+---
+
 ## 🛠️ Tech & Tools
 
 ### Programming Languages
