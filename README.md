@@ -17,7 +17,7 @@ I enjoy designing custom PCBs, writing low-level firmware, and building embedded
 | Project | Description | Link |
 | :--- | :--- | :--- |
 | 🎚️  **Frequency Meter** | Frequency Meter and Signal Generator (Raspberry Pi Pico) | [View Code](https://github.com/polcf03/pico-frecuency-analyzer) |
-| 🔊 **MP3** (paused) | Portable audio player (STM32) | [View Code](https://github.com/polcf03/stm32-mp3-player) |
+| 🔊 **MP3** (Paused) | Portable audio player (STM32) | [View Code](https://github.com/polcf03/stm32-mp3-player) |
 
 ---
 
